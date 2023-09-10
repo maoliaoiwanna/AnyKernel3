@@ -4,15 +4,15 @@
 ### AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=kernel flasher ravon
+kernel.string=kernel flasher sagit
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=ravon
-device.name2=Google
-device.name3=Pixel 6 Pro
+device.name1=sagit
+device.name2=
+device.name3=
 device.name4=
 device.name5=
 supported.versions=
